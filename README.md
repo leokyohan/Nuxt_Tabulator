@@ -18,3 +18,5 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+There is an error saying Tabulator is not a constructor in this project. If anybody know a solution to resolve this please suggest it.
